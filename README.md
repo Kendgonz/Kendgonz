@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kendgonz,I am always willing to learn and share my projects! 
 - 👀 I’m interested in Website Programming and developing applications.
+- 📍 San Jose, Costa Rica 
 
 <!---
 Kendgonz/Kendgonz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
